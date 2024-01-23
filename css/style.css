@@ -1,0 +1,18 @@
+/* for cards */
+/*.card {
+    margin: 0 auto; /* Added */
+    /*float: none; /* Added */
+    /*margin-bottom: 10px; 
+    /* Added
+}*/
+body {
+    background: #ff5f6d;
+    background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
+    background: linear-gradient(to right, #ff5f6d, #ffc371);
+    min-height: 100vh;
+  }
+  
+ /* footer */
+
+ /*end footer */
+ 
