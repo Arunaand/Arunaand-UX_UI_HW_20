@@ -11,7 +11,40 @@ body {
     background: linear-gradient(to right, #ff5f6d, #ffc371);
     min-height: 100vh;
   }
+  /* text align center-homepage */
+  .center {
+    line-height: 200px;
+    height: 200px;
+    border: 3px solid green;
+    text-align: center;
+  }
   
+
+  
+  /* jumbotron 1 */
+  /* Adds text shadow to make the text inside the jumbotron pop */
+.jumbotron p,
+.jumbotron h1 {
+   text-shadow: 2px 2px 1px black;
+}
+
+/* Adds a top margin to the jumbotron button for better readability */
+.jumbotron .btn {
+   margin-top: 1.5rem;
+}
+
+/* Transparent buttons */
+.btn-secondary-dark {
+    color: #000000;
+    background-color: transparent;
+    border-color: #000000;
+}
+
+.btn-secondary-light {
+   color: #FFFFFF;
+   background-color: transparent;
+   border-color: #FFFFFF;
+}
  /* footer */
 
  /*end footer */
